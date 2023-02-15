@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Brain imaging
 - 🌱 I’m currently learning ... everything! 
 - 💞️ I’m looking to collaborate on ... Neuroimaging data processing and analysis, and Neuroinformatics
-- 📫 How to reach me ... alexandre.franco@nki.rfmh.org or alexandre.franco@childmind.orf
+- 📫 How to reach me ... alexandre.franco@nki.rfmh.org or alexandre.franco@childmind.org
 
 <!---
 engfranco/engfranco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
